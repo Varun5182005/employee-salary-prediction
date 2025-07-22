@@ -1,0 +1,101 @@
+Name,Gender,Age,Experience,Education,Role,Income
+Arjun,Male,35,7,Bachelors,Project Manager,44181.03
+Nikhil,Male,55,27,High School,Software Engineer,83756.62
+Meena,Male,32,8,High School,Senior Developer,49144.38
+Nikhil,Female,32,7,Masters,Software Engineer,50936.43
+Rahul,Other,45,10,Masters,Project Manager,57917.91
+Arjun,Male,42,3,Masters,Financial Analyst,46644.84
+Ajay,Female,20,2,PhD,Senior Developer,52000.33
+Meena,Other,36,11,Bachelors,Data Scientist,57491.6
+Ravi,Other,32,12,Masters,Data Scientist,64082.79
+Neha,Female,47,20,Masters,Project Manager,78042.03
+Karan,Female,31,10,Masters,Data Scientist,54814.45
+Vikram,Male,47,12,Masters,Senior Developer,67030.08
+Vikram,Other,38,1,Bachelors,Software Engineer,28358.28
+Meena,Male,54,20,Bachelors,Intern,79618.2
+Neha,Other,47,4,Masters,Project Manager,42068.01
+Sneha,Other,55,27,PhD,Financial Analyst,110708.83
+Vikram,Male,50,31,High School,Software Engineer,98425.5
+Rahul,Other,45,19,High School,UX Designer,72396.92
+Neha,Other,47,16,Masters,Senior Developer,78243.6
+Arjun,Other,52,17,Masters,Data Scientist,73208.45
+Amit,Female,28,7,High School,Marketing Specialist,45669.85
+Lakshmi,Male,58,19,Bachelors,Project Manager,73755.71
+Karan,Male,52,33,High School,Director,111277.24
+Karan,Female,33,1,Bachelors,Director,36942.99
+Meena,Male,49,4,Bachelors,Project Manager,33746.7
+Rahul,Female,51,27,Bachelors,Senior Developer,95391.31
+Kavya,Other,37,12,Masters,Intern,69212.67
+Vikram,Male,22,2,High School,Director,32384.19
+Nikhil,Male,55,14,High School,Data Scientist,55771.99
+Meena,Male,39,2,Bachelors,Marketing Specialist,33159.47
+Suresh,Male,52,8,PhD,HR Assistant,58979.39
+Kavya,Male,24,5,PhD,Financial Analyst,48068.71
+Rohit,Female,47,27,High School,Data Scientist,92246.25
+Arjun,Male,30,3,PhD,Project Manager,45999.95
+Rohit,Male,35,14,Bachelors,Data Scientist,56344.24
+Nikhil,Male,21,0,High School,HR Assistant,24738.21
+Rahul,Female,49,30,Bachelors,UX Designer,107226.54
+Ananya,Female,34,14,Masters,UX Designer,70137.32
+Nikhil,Other,49,9,Bachelors,Marketing Specialist,51674.93
+Nikhil,Male,38,1,High School,Director,32350.11
+Suresh,Other,51,10,High School,Senior Developer,54404.22
+Ajay,Male,33,12,High School,Director,59773.26
+Vikram,Other,56,2,High School,UX Designer,29226.32
+Divya,Female,31,10,Masters,HR Assistant,55304.51
+Sneha,Female,26,4,PhD,Financial Analyst,55284.45
+Ananya,Female,57,36,High School,Data Scientist,108473.4
+Nikhil,Male,50,16,Bachelors,Financial Analyst,73766.51
+Karan,Female,28,7,Masters,Director,53001.3
+Lakshmi,Male,60,35,Masters,Data Scientist,119744.97
+Arjun,Male,53,9,Masters,Marketing Specialist,55997.37
+Ajay,Male,39,6,Masters,Senior Developer,47585.66
+Ravi,Male,58,27,Masters,Software Engineer,97890.82
+Ananya,Female,26,4,Bachelors,Intern,39496.84
+Ananya,Male,22,1,High School,Financial Analyst,26657.35
+Swati,Other,27,6,Bachelors,Software Engineer,38083.98
+Ravi,Female,31,10,Bachelors,Data Scientist,55998.45
+Karan,Other,44,19,Bachelors,HR Assistant,80007.92
+Rahul,Female,19,0,Masters,UX Designer,30861.16
+Vikram,Female,28,1,PhD,Software Engineer,38618.27
+Pooja,Female,37,7,Bachelors,Software Engineer,41123.66
+Kavya,Female,39,8,High School,Marketing Specialist,42228.96
+Nikhil,Female,19,0,Masters,Project Manager,34401.07
+Swati,Female,20,0,PhD,Financial Analyst,39708.48
+Ajay,Other,25,6,Bachelors,Marketing Specialist,41850.56
+Ravi,Other,45,0,Bachelors,Financial Analyst,24462.66
+Divya,Other,38,3,Masters,Senior Developer,48050.75
+Amit,Other,44,10,PhD,Marketing Specialist,62462.74
+Neha,Other,29,9,Masters,UX Designer,57952.95
+Nikhil,Male,37,9,Bachelors,UX Designer,54260.88
+Divya,Female,46,14,Bachelors,Senior Developer,64670.64
+Suresh,Other,28,10,High School,Marketing Specialist,45477.19
+Divya,Male,33,9,Bachelors,HR Assistant,50156.9
+Priya,Male,20,0,PhD,Director,44570.16
+Rohit,Other,54,12,PhD,Intern,71212.52
+Neha,Male,27,0,High School,UX Designer,26878.13
+Lakshmi,Female,21,1,High School,Intern,33927.91
+Priya,Female,60,33,Masters,Intern,116472.31
+Lakshmi,Female,53,28,Bachelors,Intern,99409.09
+Pooja,Female,33,8,PhD,HR Assistant,57845.44
+Amit,Male,35,10,Masters,Senior Developer,63992.09
+Meena,Male,27,3,PhD,Project Manager,44253.67
+Rohit,Female,52,29,PhD,Software Engineer,106623
+Kavya,Female,42,24,High School,Director,88801.36
+Karan,Female,42,13,Bachelors,Intern,64685.64
+Vikram,Female,45,15,High School,UX Designer,61558.17
+Neha,Other,28,7,Bachelors,Director,54730.9
+Nikhil,Male,43,18,High School,Data Scientist,65157.48
+Pooja,Male,21,2,PhD,Financial Analyst,43944.97
+Kavya,Female,38,10,PhD,Marketing Specialist,64059.62
+Sneha,Male,48,0,High School,Financial Analyst,20278.96
+Vikram,Other,22,0,High School,HR Assistant,23158.71
+Priya,Male,26,7,High School,Director,46981.86
+Kavya,Female,34,11,Bachelors,Director,58256.83
+Arjun,Male,37,3,High School,Marketing Specialist,28910.17
+Swati,Other,42,12,Bachelors,Data Scientist,52056.16
+Vikram,Male,37,19,High School,Director,73923.62
+Ravi,Female,52,27,Masters,Data Scientist,96217.46
+Rohit,Female,24,3,Masters,Intern,44414.47
+Priya,Female,29,11,Masters,Director,67611.21
+Suresh,Female,45,26,Masters,Financial Analyst,97097.89
